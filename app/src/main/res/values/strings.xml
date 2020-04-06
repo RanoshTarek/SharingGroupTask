@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Friends</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">Loading…</string>
+    <string name="oh_sorry">Oh! Sorry</string>
+    <string name="may_be_there_is_a_connection_problem">May be there is a connection problem</string>
+    <string name="profile">Profile</string>
+    <string name="no_user_available_right_now">No User Available Right Now</string>
+    <string name="todo">TODO</string>
+
+</resources>
